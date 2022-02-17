@@ -23,7 +23,8 @@
 #include "autoware_auto_vehicle_msgs/msg/hazard_lights_report.hpp"
 #include "autoware_auto_vehicle_msgs/msg/steering_report.hpp"
 #include "autoware_auto_vehicle_msgs/msg/turn_indicators_report.hpp"
-#include "autoware_auto_vehicle_msgs/msg/velocity_report.hpp"
+// #include "autoware_auto_vehicle_msgs/msg/velocity_report.hpp"
+#include "tier4_vehicle_msgs/msg/velocity_report.hpp"
 #include "tier4_external_api_msgs/msg/vehicle_command_stamped.hpp"
 #include "tier4_external_api_msgs/msg/vehicle_status_stamped.hpp"
 
